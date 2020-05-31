@@ -1,12 +1,9 @@
 <template>
-  <v-app>
-    <router-view/>
-  </v-app>
+  <div>Hello!</div>
 </template>
 
 <script>
-
 export default {
-  name: 'App',
+  name: 'ExampleChildren',
 };
 </script>
