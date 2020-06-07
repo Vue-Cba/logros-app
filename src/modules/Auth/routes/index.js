@@ -15,7 +15,7 @@ const AuthRoutes = {
       path: '/',
       component: Login,
       meta: {
-        diabledLayout: true,
+        disableLayout: true,
       },
     },
   ],
